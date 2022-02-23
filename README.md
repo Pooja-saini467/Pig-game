@@ -15,7 +15,7 @@
 - It is smple fun dice game between two player
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Pig-game/blob/main/images/screenshot.png">
 
 ## Demo
 
